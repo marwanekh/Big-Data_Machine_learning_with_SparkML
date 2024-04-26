@@ -27,7 +27,7 @@ Before running, ensure that the IDE configuration is set to application settings
 The project is currently configured to run locally but can be modified to run on a cluster.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ### Author
 [KHALFAOUI Hassani Marwane]
